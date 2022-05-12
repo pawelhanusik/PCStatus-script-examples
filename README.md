@@ -20,6 +20,8 @@ Progress of any bash script, any process, monitoring RAM, cpu usage & more.
 
 ---
 
+*Note: Before running please make sure that `pcstatus` is in PATH*
+
 Scripts in this repo:
 
 - cpu.sh - sends CPU usage
